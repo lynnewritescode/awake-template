@@ -2,7 +2,7 @@
 title: The Binding by Bridget Collins
 subtitle: Book Review
 category:
-  - About Awake
+  - Book Review
 author: Lynne Finnigan
 date: 2020-04-04T11:34:37.553Z
 featureImage: /uploads/about-hero.jpg
